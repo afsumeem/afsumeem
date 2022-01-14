@@ -11,5 +11,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://portfolio-of-afsana.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://portfolio-of-afsana.netlify.app/)
 
